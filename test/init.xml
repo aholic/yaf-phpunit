@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataset>
-  <user userID="1" userName="ahoLic"/>
-  <user userID="2" userName="kost"/>
+  <user userID="1" userNick="ahoLic"/>
+  <user userID="2" userNick="kost"/>
 </dataset>
